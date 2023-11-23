@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
-- 💬 Ask me about **JavaScript,React js,Node js**
+- 💬 Ask me about **JavaScript,React js,Node js, MongoDB, Mongoose, Express js, **
 
 - 📫 How to reach me **vikashsinghs5530@gmail.com**
 
